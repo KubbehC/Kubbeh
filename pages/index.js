@@ -18,7 +18,7 @@ export default function Home() {
       </main>
   
       <body>
-        <img src="Menu20230416.JPG" width="400" height="309"></img>
+        <img src="Menu.jpg" width="400" height="309"></img>
       </body>
 
       <Footer />
